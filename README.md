@@ -8,4 +8,4 @@ The jQuery Bookmarklet code is base on @jrcryer's [jquery-bookmarklet-boilerplat
 
 ## How does it work?
 
-![How does it work](http://raw.github.com/picandocodigo/mhc_bookmarklet/master/how-does-it-work.gif)
+![How does it work](https://raw.github.com/picandocodigo/mhc_bookmarklet/master/how-does-it-work.gif)
