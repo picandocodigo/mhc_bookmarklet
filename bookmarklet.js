@@ -6,8 +6,9 @@
 
             $('b').each(function(){
                 if( $(this).text().match(reg) ){
-                    price = new Number( $(this).text() );
-                    $(this).text(discount * price / 100);
+                    var price = new Number( $(this).text() );
+                    var new_price = (discount * price / 100).toFixed(2);
+                    $(this).text(new_price);
                 }
             });
         }
