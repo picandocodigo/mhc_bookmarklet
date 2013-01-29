@@ -6,6 +6,8 @@ Through [Mile High Comic's newsletter](http://www.milehighcomics.com/newsletter/
 
 The jQuery Bookmarklet code is base on @jrcryer's [jquery-bookmarklet-boilerplate](http://github.com/jrcryer/jquery-bookmarklet-boilerplate).
 
+You can find the bookmarklet to add to your browser's bookmarks toolbar [here](http://picandocodigo.github.com/mhc_bookmarklet/).
+
 ## How does it work?
 
 ![How does it work](https://raw.github.com/picandocodigo/mhc_bookmarklet/master/how-does-it-work.gif)
